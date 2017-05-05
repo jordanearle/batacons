@@ -1,0 +1,249 @@
+
+@font-face {
+	font-family: 'DELIRIUM NEON NCV';
+	src: url('DELIRIUMNEONNCV.eot');
+	src: url('DELIRIUMNEONNCV.eot?#iefix') format('embedded-opentype'),
+		url('DELIRIUMNEONNCV.woff') format('woff'),
+		url('DELIRIUMNEONNCV.ttf') format('truetype');
+	font-weight: normal;
+	font-style: normal;
+}
+
+  a {
+    text-decoration: none;
+    color: #000;}
+
+  body{
+    margin: 0px;
+    padding: 0px;
+    max-width: 100%;
+    min-width: 480px;
+    background-color: #121212;}
+
+  .splash {
+    height: 100VH;;
+    background-size: auto;
+    position: relative;
+    overflow-x: hidden;
+    overflow-y: hidden;
+    position: relative;
+    background-image:url(../img/noise.png), linear-gradient(-180deg, #2C1D50 0%, #65406A 71%);
+    background-blend-mode: color-dodge;}
+
+  .iconpreview {
+    height: 1440px;
+    background-size: cover;
+    background-repeat: no-repeat;
+    position: relative;
+    overflow-x: hidden;
+    overflow-y: hidden;
+    position: relative;
+    background-color: #1D1111;}
+
+.rooftop {
+  height: 300px;
+  width: 100%;
+  background-color: #1D1111;
+  margin-top: 30em;
+  position: absolute;
+  z-index: 5;}
+
+.buildings {
+  height: 100%;
+  width: 100%;
+  background-image:url(../img/buildings.svg);
+  background-size: contain;
+  filter: blur(0.9);
+  opacity: 0.3;
+  position: absolute;
+  z-index: 2;}
+
+.batsignal {
+  height: 100%;
+  width: 100%;
+  background-image:url(../img/batsignal.svg);
+  z-index: 1;
+  position: absolute;
+  -webkit-animation-name: flicker;
+	-webkit-animation-duration: 3s;
+	-webkit-animation-iteration-count: infinite;
+	-webkit-animation-timing-function: linear;}
+
+
+.neonsign {
+  height: 200px;
+  width: 1000px;
+  position: absolute;
+  z-index: 3;
+  margin-top: 12.5em;
+  margin-left: 2em;}
+
+.signstand {
+  position: absolute;
+  margin-top: 28em;
+  margin-left: -8em;
+  width: 45%;
+  z-index: 4;
+}
+.logoneon {
+  font-family: 'DELIRIUM NEON NCV', sans-serif;
+  color: #AB0000;
+  -webkit-text-stroke-color: black;
+  font-size: 9em;
+  letter-spacing: 0.1em;
+  transition: all 0.5s;
+  animation: neon1 0.15s ease-in-out infinite alternate;}
+
+.iconrowofthree {
+	width: 100%;
+	height: 220px;
+	text-align: center;
+	margin-bottom: 5em;}
+
+.iconrowoftwo {
+	width: 100%;
+	height: 220px;
+	text-align: center;
+	margin-bottom: 5em;}
+
+.icondisplaydivider {
+	width: 120px;
+	display: inline-block;
+	margin-top: 0.5em;
+}
+
+.icondisplay {
+	width: 300px;
+	height: 200px;
+	display: inline-block;
+	margin-top: 0.5em;
+	background-image:url(../img/iconbg.svg);
+	background-size: contain;
+	background-repeat: no-repeat;"
+}
+
+.icon {
+	height: 90%;
+	margin-left: auto;
+	margin-right: auto;
+	display: block;
+	margin-bottom: 2em;}
+
+.label {
+	color: #fff;
+	font-family: "gesta",sans-serif;
+	font-size: 1.5em;
+	font-weight: 500;
+	margin-top: 450px;
+	opacity: 0.4;
+}
+
+  /* flicker */
+  @-webkit-keyframes flicker {
+  	from {
+  		opacity: 0.5;
+  	}
+  	4% {
+  		opacity: 0.5;
+  	}
+  	6% {
+  		opacity: 0.45;
+  	}
+  	8% {
+  		opacity: 0.55;
+  	}
+  	10% {
+  		opacity: 0.45;
+  	}
+  	11% {
+  		opacity: 0.5;
+  	}
+  	12% {
+  		opacity: 0.65;
+  	}
+  	14% {
+  		opacity: 0.55;
+  	}
+  	16% {
+  		opacity: 0.70;
+  	}
+  	17% {
+  		opacity: 0.55;
+  	}
+  	19% {
+  		opacity: 0.5;
+  	}
+  	20% {
+  		opacity: 0.5;
+  	}
+  	24% {
+  		opacity: 0.5;
+  	}
+  	26% {
+  		opacity: 0.69;
+  	}
+  	28% {
+  		opacity: 0.5;
+  	}
+  	38% {
+  		opacity: 0.45;
+  	}
+  	40% {
+  		opacity: 0.5;
+  	}
+  	42% {
+  		opacity: 0.6;
+  	}
+  	44% {
+  		opacity: 0.5;
+  	}
+  	46% {
+  		opacity: 0.5;
+  	}
+  	56% {
+  		opacity: 0.5;
+  	}
+  	58% {
+  		opacity: 0.75;
+  	}
+  	60% {
+  		opacity: 0.5;
+  	}
+  	68% {
+  		opacity: 0.5;
+  	}
+  	70% {
+  		opacity: .6; /*peak*/
+  	}
+  	72% {
+  		opacity: 0.5;
+  	}
+  	93% {
+  		opacity: 0.5;
+  	}
+  	95% {
+  		opacity: .6; /*peak*/
+  	}
+  	97% {
+  		opacity: 0.5;
+  	}
+  	to {
+  		opacity: 0.5;
+  	}
+  }
+
+  /*glow*/
+
+@keyframes neon1 {
+  from {
+    text-shadow: 0 0 5px #FF0000, 0 0 15px #FC1515, 0 0 25px #FF0000, 0 0 20px #FFA2A2, 0 0 30px #FF0000;
+  }
+  to {
+    text-shadow: 0 0 5px #FF0000, 0 0 5px #FC1515, 0 0 15px #FF0000, 0 0 20px #FFA2A2, 0 0 35px #FF0000;
+  }
+}
+
+@keyframes fadein {
+    from { opacity: 0; }
+    to   { opacity: 1; }
+}

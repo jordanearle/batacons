@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="792px" height="47px" viewBox="0 0 792 47" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 42 (36781) - http://www.bohemiancoding.com/sketch -->
+    <title>Group 3</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <rect id="path-1" x="0" y="0" width="784" height="13"></rect>
+        <filter x="-50%" y="-50%" width="200%" height="200%" filterUnits="objectBoundingBox" id="filter-2">
+            <feOffset dx="0" dy="2" in="SourceAlpha" result="shadowOffsetOuter1"></feOffset>
+            <feGaussianBlur stdDeviation="2" in="shadowOffsetOuter1" result="shadowBlurOuter1"></feGaussianBlur>
+            <feColorMatrix values="0 0 0 0 0   0 0 0 0 0   0 0 0 0 0  0 0 0 0.5 0" type="matrix" in="shadowBlurOuter1"></feColorMatrix>
+        </filter>
+    </defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Desktop-HD" transform="translate(-69.000000, -644.000000)">
+            <g id="Hero" transform="translate(-180.000000, 0.000000)">
+                <g id="Group-3" transform="translate(253.000000, 650.000000)">
+                    <g id="Rectangle-3" transform="translate(392.000000, 6.500000) scale(1, -1) translate(-392.000000, -6.500000) ">
+                        <use fill="black" fill-opacity="1" filter="url(#filter-2)" xlink:href="#path-1"></use>
+                        <use fill="#292929" fill-rule="evenodd" xlink:href="#path-1"></use>
+                    </g>
+                    <rect id="Rectangle-4" fill="#1E1E1E" x="10" y="13" width="13" height="28"></rect>
+                    <rect id="Rectangle-4-Copy-2" fill="#1E1E1E" x="389" y="7" width="13" height="34"></rect>
+                    <rect id="Rectangle-4-Copy" fill="#1E1E1E" x="761" y="13" width="13" height="28"></rect>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>
