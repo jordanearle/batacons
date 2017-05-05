@@ -46,6 +46,7 @@
   background-color: #1D1111;
   margin-top: 30em;
   position: absolute;
+	text-align: center;
   z-index: 5;}
 
 .buildings {
@@ -137,6 +138,46 @@
 	margin-top: 450px;
 	opacity: 0.4;
 }
+
+.description {
+	color: #fff;
+	font-family: "gesta",sans-serif;
+	font-size: 1.5em;
+	font-weight: 300;
+	margin-top: 450px;
+	text-align: center;}
+
+	a.button {
+	  height: 50px;
+	  width: 250px;
+	  background-color: #393535;
+	  text-align: center;
+	  margin: 0 auto;
+	  display: block;
+	  color: #FFF;
+	  text-decoration: none;
+		font-family: "gesta",sans-serif;
+	  font-size: 1.5em;
+	  padding-top: 0.9em;
+	  padding-bottom: 0.3em;
+	  z-index: 1;
+	  position: relative;}
+
+		a.button:hover {
+			height: 50px;
+			width: 250px;
+			background-color: #514B4B;
+			text-align: center;
+			margin: 0 auto;
+			display: block;
+			color: #FFF;
+			text-decoration: none;
+			font-family: "gesta",sans-serif;
+			font-size: 1.5em;
+			padding-top: 0.9em;
+			padding-bottom: 0.3em;
+			z-index: 1;
+			position: relative;}
 
   /* flicker */
   @-webkit-keyframes flicker {
