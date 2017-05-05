@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="155px" height="211px" viewBox="0 0 155 211" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 42 (36781) - http://www.bohemiancoding.com/sketch -->
+    <title>Group 2</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <path d="M124.445078,173.51644 L84.3143947,205.667219 L75.4990544,206.441042 L66.4588485,205.667219 L25.919429,171.080539 L8.99810882,116.97692 L0.0379369922,68.3296134 L0.0379369922,68.3296134 C0.0159404993,56.7488998 16.4423652,26.5148104 16.4423652,26.5148104 L16.4423652,26.5148104 L25.2727899,19.1717393 C32.9171646,12.8149456 46.8967962,5.54772116 56.4805617,2.94445083 L60.4439987,1.86784917 C62.0447577,1.43302963 64.6204245,0.642356011 66.1772754,0.108562794 L63.3424293,1.08053874 C70.056348,-1.2214442 86.9298545,0.832286921 87.6537883,1.08053874 L84.8193832,0.108562794 C86.3847819,0.645370287 88.9564056,1.43437304 90.552219,1.86784917 L97.403626,3.72891982 C105.399846,5.90095983 117.040821,11.9515883 123.417212,17.2539715 L134.553852,26.5148104 L134.553852,26.5148104 C143.635764,38.0277748 150.958281,68.3296134 150.958281,68.3296134 L150.958281,68.3296134 L141.98343,116.977954 L124.445078,173.51644 Z" id="path-1"></path>
+        <mask id="mask-3" maskContentUnits="userSpaceOnUse" maskUnits="objectBoundingBox" x="-2" y="-2" width="154.998109" height="210.441042">
+            <rect x="-2" y="-2" width="154.998109" height="210.441042" fill="white"></rect>
+            <use xlink:href="#path-1" fill="black"></use>
+        </mask>
+        <path d="M90.6119533,32.8585003 C103.866787,32.8585003 111.156162,23.2838032 111.156162,23.2838032 C113.064743,21.3087457 113.104759,18.0420803 111.137393,16.1141162 C111.137393,16.1141162 103.866787,6.55678999 90.6119533,6.55678999 C77.3571193,6.55678999 66.6119533,12.4446284 66.6119533,19.7076452 C66.6119533,26.9706619 77.3571193,32.8585003 90.6119533,32.8585003 Z" id="path-4"></path>
+        <filter x="-50%" y="-50%" width="200%" height="200%" filterUnits="objectBoundingBox" id="filter-5">
+            <feGaussianBlur stdDeviation="1.5" in="SourceAlpha" result="shadowBlurInner1"></feGaussianBlur>
+            <feOffset dx="0" dy="1" in="shadowBlurInner1" result="shadowOffsetInner1"></feOffset>
+            <feComposite in="shadowOffsetInner1" in2="SourceAlpha" operator="arithmetic" k2="-1" k3="1" result="shadowInnerInner1"></feComposite>
+            <feColorMatrix values="0 0 0 0 0   0 0 0 0 0   0 0 0 0 0  0 0 0 0.5 0" type="matrix" in="shadowInnerInner1"></feColorMatrix>
+        </filter>
+    </defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Desktop-HD" transform="translate(-584.000000, -1048.000000)">
+            <g id="Group-2" transform="translate(586.000000, 1050.000000)">
+                <mask id="mask-2" fill="white">
+                    <use xlink:href="#path-1"></use>
+                </mask>
+                <g id="Head-Shape">
+                    <use fill="#C00A0A" fill-rule="evenodd" xlink:href="#path-1"></use>
+                    <use stroke="#000000" mask="url(#mask-3)" stroke-width="4" xlink:href="#path-1"></use>
+                </g>
+                <rect id="Rectangle-8" fill="#B00B0B" mask="url(#mask-2)" x="73" y="-24" width="107" height="243"></rect>
+                <path d="M41.4802824,87 L52.9745079,74.2694114 C52.9745079,74.2694114 57.2372641,49.7160325 57.2372641,37.4393431 C57.2372641,25.1626536 52.9745079,5.64885477 52.9745079,5.64885477 L52.9745079,1" id="Path-6" stroke="#6F0808" stroke-width="3" mask="url(#mask-2)"></path>
+                <path d="M91.4802824,87 L104.989837,74.2694114 C104.989837,74.2694114 110,49.7160325 110,37.4393431 C110,25.1626536 104.989837,5.64885477 104.989837,5.64885477 L104.989837,1" id="Path-6-Copy" stroke="#6F0808" stroke-width="3" mask="url(#mask-2)" transform="translate(100.740141, 44.000000) scale(-1, 1) translate(-100.740141, -44.000000) "></path>
+                <polyline id="Path-14-Copy" stroke="#6F0808" stroke-width="3" mask="url(#mask-2)" transform="translate(102.552792, 147.277762) scale(-1, 1) translate(-102.552792, -147.277762) " points="89.0875885 108.375731 84.105583 120.003922 105.911596 176.151169 121 186.179793"></polyline>
+                <rect id="Rectangle" fill="#6F0909" mask="url(#mask-2)" x="63" y="184" width="22" height="3"></rect>
+                <polyline id="Path-14-Copy-2" stroke="#6F0808" stroke-width="3" mask="url(#mask-2)" points="32.0875885 108.375731 27.105583 120.003922 48.9115958 176.151169 64 186.179793"></polyline>
+                <g id="Group" mask="url(#mask-2)">
+                    <g transform="translate(15.000000, 80.000000)">
+                        <path d="M27.6119533,32.8585003 C40.8667873,32.8585003 48.1561616,23.2838032 48.1561616,23.2838032 C50.0647427,21.3087457 50.104759,18.0420803 48.1373928,16.1141162 C48.1373928,16.1141162 40.8667873,6.55678999 27.6119533,6.55678999 C14.3571193,6.55678999 3.61195333,12.4446284 3.61195333,19.7076452 C3.61195333,26.9706619 14.3571193,32.8585003 27.6119533,32.8585003 Z" id="Oval-2" fill="#000000" fill-rule="evenodd" transform="translate(26.606111, 19.707645) rotate(16.000000) translate(-26.606111, -19.707645) "></path>
+                        <g id="Oval-2-Copy" fill="none" transform="translate(89.606111, 19.707645) scale(-1, 1) rotate(16.000000) translate(-89.606111, -19.707645) ">
+                            <use fill="#1B1B1B" fill-rule="evenodd" xlink:href="#path-4"></use>
+                            <use fill="black" fill-opacity="1" filter="url(#filter-5)" xlink:href="#path-4"></use>
+                        </g>
+                    </g>
+                </g>
+                <g id="Eyes" mask="url(#mask-2)" fill="#FFFFFF">
+                    <g transform="translate(25.000000, 86.000000)">
+                        <path d="M79.9720206,18.6228817 L94.2717599,19.2654849 L94.2717599,17.8602751 C94.2717599,17.8602751 86.6479554,12.8228583 82.7331175,10.604074 C78.8182797,8.38528971 69.894177,4.04396892 69.894177,4.04396892 L67.2627479,5.96484289 L79.9720206,18.6228817 Z" id="Path-2-Copy" transform="translate(80.767254, 11.654727) scale(-1, 1) rotate(-19.000000) translate(-80.767254, -11.654727) "></path>
+                        <path d="M14.9720206,18.6228817 L29.2717599,19.2654849 L29.2717599,17.8602751 C29.2717599,17.8602751 21.6479554,12.8228583 17.7331175,10.604074 C13.8182797,8.38528971 4.89417698,4.04396892 4.89417698,4.04396892 L2.26274788,5.96484289 L14.9720206,18.6228817 Z" id="Path-2-Copy-2" transform="translate(15.767254, 11.654727) rotate(-19.000000) translate(-15.767254, -11.654727) "></path>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

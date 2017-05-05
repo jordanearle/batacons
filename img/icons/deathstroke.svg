@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="159px" height="211px" viewBox="0 0 159 211" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 42 (36781) - http://www.bohemiancoding.com/sketch -->
+    <title>Group 2</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <path d="M127.445078,173.51644 L87.3143947,205.667219 L78.4990544,206.441042 L69.4588485,205.667219 L28.919429,171.080539 L11.9981088,116.97692 L3.03793699,68.3296134 L3.03793699,68.3296134 C3.0159405,56.7488998 19.4423652,26.5148104 19.4423652,26.5148104 L19.4423652,26.5148104 L28.2727899,19.1717393 C35.9171646,12.8149456 49.8967962,5.54772116 59.4805617,2.94445083 L63.4439987,1.86784917 C65.0447577,1.43302963 67.6204245,0.642356011 69.1772754,0.108562794 L66.3424293,1.08053874 C73.056348,-1.2214442 89.9298545,0.832286921 90.6537883,1.08053874 L87.8193832,0.108562794 C89.3847819,0.645370287 91.9564056,1.43437304 93.552219,1.86784917 L100.403626,3.72891982 C108.399846,5.90095983 120.040821,11.9515883 126.417212,17.2539715 L137.553852,26.5148104 L137.553852,26.5148104 C146.635764,38.0277748 153.958281,68.3296134 153.958281,68.3296134 L153.958281,68.3296134 L144.98343,116.977954 L127.445078,173.51644 Z" id="path-1"></path>
+        <mask id="mask-3" maskContentUnits="userSpaceOnUse" maskUnits="objectBoundingBox" x="-2" y="-2" width="154.920366" height="210.441042">
+            <rect x="1.03791492" y="-2" width="154.920366" height="210.441042" fill="white"></rect>
+            <use xlink:href="#path-1" fill="black"></use>
+        </mask>
+        <path d="M77.9062463,22.6210707 C87.273965,22.6210707 91.3286117,16.8273451 91.3286117,16.8273451 C93.2833626,14.8940684 93.3483535,11.6866103 91.3130074,9.81308713 C91.3130074,9.81308713 87.273965,4.03260532 77.9062463,4.03260532 C68.5385277,4.03260532 60.9444913,8.19377502 60.9444913,13.326838 C60.9444913,18.4599009 68.5385277,22.6210707 77.9062463,22.6210707 Z" id="path-4"></path>
+        <filter x="-50%" y="-50%" width="200%" height="200%" filterUnits="objectBoundingBox" id="filter-5">
+            <feGaussianBlur stdDeviation="1.5" in="SourceAlpha" result="shadowBlurInner1"></feGaussianBlur>
+            <feOffset dx="0" dy="1" in="shadowBlurInner1" result="shadowOffsetInner1"></feOffset>
+            <feComposite in="shadowOffsetInner1" in2="SourceAlpha" operator="arithmetic" k2="-1" k3="1" result="shadowInnerInner1"></feComposite>
+            <feColorMatrix values="0 0 0 0 0   0 0 0 0 0   0 0 0 0 0  0 0 0 0.5 0" type="matrix" in="shadowInnerInner1"></feColorMatrix>
+        </filter>
+        <path d="M18.9062463,22.6210707 C28.273965,22.6210707 32.3286117,16.8273451 32.3286117,16.8273451 C34.2833626,14.8940684 34.3483535,11.6866103 32.3130074,9.81308713 C32.3130074,9.81308713 28.273965,4.03260532 18.9062463,4.03260532 C9.53852768,4.03260532 1.94449128,8.19377502 1.94449128,13.326838 C1.94449128,18.4599009 9.53852768,22.6210707 18.9062463,22.6210707 Z" id="path-6"></path>
+        <filter x="-50%" y="-50%" width="200%" height="200%" filterUnits="objectBoundingBox" id="filter-7">
+            <feGaussianBlur stdDeviation="1.5" in="SourceAlpha" result="shadowBlurInner1"></feGaussianBlur>
+            <feOffset dx="0" dy="1" in="shadowBlurInner1" result="shadowOffsetInner1"></feOffset>
+            <feComposite in="shadowOffsetInner1" in2="SourceAlpha" operator="arithmetic" k2="-1" k3="1" result="shadowInnerInner1"></feComposite>
+            <feColorMatrix values="0 0 0 0 0   0 0 0 0 0   0 0 0 0 0  0 0 0 0.5 0" type="matrix" in="shadowInnerInner1"></feColorMatrix>
+        </filter>
+    </defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Desktop-HD" transform="translate(-366.000000, -1149.000000)">
+            <g id="Group-2" transform="translate(367.000000, 1151.000000)">
+                <g id="Ears" transform="translate(0.000000, 88.000000)" stroke-width="2" stroke="#000000" fill="#372933">
+                    <polygon id="Path-7" points="23.6010708 33.1532933 17.8051276 11.7370483 15.3908423 4.45826134 10.0868771 0.847198026 5.83872991 1.60589445 1.23403686 6.15392712 0.265282404 13.5985494 0.0883914341 21.7148046 0.737912963 28.3689454 3.70636455 36.2613229 7.71543254 40.0271659 12.8480346 43.6230276 17.2537253 46 21.9247525 45.9143184"></polygon>
+                    <polygon id="Path-7-Copy-3" transform="translate(145.142676, 23.282153) scale(-1, -1) rotate(27.000000) translate(-145.142676, -23.282153) " points="155.434457 31.7997601 150.36055 13.0514674 148.247027 6.67944335 143.603809 3.51823223 139.884879 4.18241321 135.853821 8.16386969 135.00575 14.68107 134.850895 21.7862337 135.419502 27.6114276 138.018156 34.5206035 141.527789 37.8173124 146.020992 40.9652157 149.877839 43.0460741 153.966968 42.9710664"></polygon>
+                </g>
+                <mask id="mask-2" fill="white">
+                    <use xlink:href="#path-1"></use>
+                </mask>
+                <g id="Head-Shape">
+                    <use fill="#301923" fill-rule="evenodd" xlink:href="#path-1"></use>
+                    <use stroke="#000000" mask="url(#mask-3)" stroke-width="4" xlink:href="#path-1"></use>
+                </g>
+                <rect id="Rectangle-8" fill="#7C463A" mask="url(#mask-2)" x="76" y="-24" width="107" height="243"></rect>
+                <g id="Group" mask="url(#mask-2)">
+                    <g transform="translate(28.000000, 86.000000)">
+                        <g id="Oval-2-Copy" transform="translate(76.880822, 13.326838) scale(-1, 1) rotate(16.000000) translate(-76.880822, -13.326838) ">
+                            <use fill="#1B1B1B" fill-rule="evenodd" xlink:href="#path-4"></use>
+                            <use fill="black" fill-opacity="1" filter="url(#filter-5)" xlink:href="#path-4"></use>
+                        </g>
+                        <g id="Oval-2-Copy-2" transform="translate(17.880822, 13.326838) rotate(16.000000) translate(-17.880822, -13.326838) ">
+                            <use fill="#1B1B1B" fill-rule="evenodd" xlink:href="#path-6"></use>
+                            <use fill="black" fill-opacity="1" filter="url(#filter-7)" xlink:href="#path-6"></use>
+                        </g>
+                    </g>
+                </g>
+                <g id="Eyes" mask="url(#mask-2)" fill="#FFFFFF">
+                    <g transform="translate(32.000000, 88.000000)">
+                        <path d="M73.4607065,15.8984605 L85.2754779,16.429394 L85.2754779,15.2683776 C85.2754779,15.2683776 78.9765164,11.1063487 75.7419879,9.27313842 C72.5074594,7.43992813 65.1341618,3.85302967 65.1341618,3.85302967 L62.9600149,5.44009965 L73.4607065,15.8984605 Z" id="Path-2-Copy" transform="translate(74.117746, 10.141212) scale(-1, 1) rotate(-19.000000) translate(-74.117746, -10.141212) "></path>
+                        <path d="M12.4607065,15.8984605 L24.2754779,16.429394 L24.2754779,15.2683776 C24.2754779,15.2683776 17.9765164,11.1063487 14.7419879,9.27313842 C11.5074594,7.43992813 4.13416179,3.85302967 4.13416179,3.85302967 L1.96001493,5.44009965 L12.4607065,15.8984605 Z" id="Path-2-Copy-2" transform="translate(13.117746, 10.141212) rotate(-19.000000) translate(-13.117746, -10.141212) "></path>
+                    </g>
+                </g>
+                <g id="Group-3" mask="url(#mask-2)" fill="#392832">
+                    <g transform="translate(-3.000000, -18.000000)">
+                        <polygon id="Rectangle-2" transform="translate(19.728813, 137.808654) scale(-1, 1) rotate(15.000000) translate(-19.728813, -137.808654) " points="14.6476153 83.90657 24.8100106 83.8525268 24.8100106 191.764781 14.7746941 191.764781"></polygon>
+                        <polygon id="Rectangle-2-Copy" transform="translate(15.430195, 62.596114) rotate(15.000000) translate(-15.430195, -62.596114) " points="10.3489971 33.5619275 20.5113924 33.5328173 20.5113924 91.6594111 10.4760759 91.6594111"></polygon>
+                        <polygon id="Rectangle-2-Copy-7" transform="translate(38.093512, 35.515160) rotate(56.000000) translate(-38.093512, -35.515160) " points="33.0123148 14.4879924 43.1747101 14.4669102 43.1747101 56.563409 33.1393935 56.563409"></polygon>
+                        <polygon id="Rectangle-2-Copy-8" transform="translate(127.093512, 35.515160) scale(-1, 1) rotate(56.000000) translate(-127.093512, -35.515160) " points="122.012315 14.4879924 132.17471 14.4669102 132.17471 56.563409 122.139393 56.563409"></polygon>
+                        <polygon id="Rectangle-2-Copy-9" transform="translate(70.402944, 19.875503) scale(-1, 1) rotate(56.000000) translate(-70.402944, -19.875503) " points="54.6823634 8.29282027 86.1235253 8.28120726 86.1235253 31.4697994 55.0755288 31.4697994"></polygon>
+                        <polygon id="Rectangle-2-Copy-11" transform="translate(84.479678, 21.046438) scale(-1, 1) rotate(90.000000) translate(-84.479678, -21.046438) " points="66.1444135 10.5783725 102.814943 7.73022659 102.814943 34.3626487 66.7003917 33.7553516"></polygon>
+                        <polygon id="Rectangle-2-Copy-10" transform="translate(101.499151, 24.315985) rotate(56.000000) translate(-101.499151, -24.315985) " points="91.1347587 12.7333015 111.863544 12.7216885 111.863544 35.9102806 91.393968 35.9102806"></polygon>
+                        <polygon id="Rectangle-2-Copy-6" transform="translate(145.430195, 62.596114) scale(-1, 1) rotate(15.000000) translate(-145.430195, -62.596114) " points="140.348997 33.5619275 150.511392 33.5328173 150.511392 91.6594111 140.476076 91.6594111"></polygon>
+                        <polygon id="Rectangle-2-Copy-4" transform="translate(142.219399, 138.003381) rotate(15.000000) translate(-142.219399, -138.003381) " points="135.750886 84.7314811 148.687911 83.8771208 145.913281 192.129642 135.877965 192.129642"></polygon>
+                        <polygon id="Rectangle-2-Copy-3" transform="translate(105.476241, 208.476241) rotate(45.000000) translate(-105.476241, -208.476241) " points="99.1189683 175.976241 111.833514 177.217038 109.154285 240.976241 99.1189683 240.976241"></polygon>
+                        <polygon id="Rectangle-2-Copy-5" transform="translate(54.476241, 207.476241) scale(-1, 1) rotate(45.000000) translate(-54.476241, -207.476241) " points="48.1189683 174.976241 60.8335138 176.217038 58.1542849 239.976241 48.1189683 239.976241"></polygon>
+                        <rect id="Rectangle-2-Copy-2" transform="translate(77.241171, 222.017658) scale(-1, 1) rotate(90.000000) translate(-77.241171, -222.017658) " x="72.2235126" y="205.776487" width="10.0353166" height="32.4823417"></rect>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>
